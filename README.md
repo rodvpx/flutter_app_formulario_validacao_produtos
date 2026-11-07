@@ -2,10 +2,6 @@
 
 Aplicativo Flutter desenvolvido para a atividade **Atividade 06 – Formulário e Validação**. O projeto permite visualizar uma lista de produtos, acessar a tela de cadastro, validar os dados informados e atualizar o catálogo dinamicamente, sem perder os itens já cadastrados.
 
-# Catálogo de Produtos
-
-Aplicativo Flutter desenvolvido para a atividade **Atividade 06 – Formulário e Validação**. O projeto permite visualizar uma lista de produtos, acessar a tela de cadastro, validar os dados informados e atualizar o catálogo dinamicamente, sem perder os itens já cadastrados.
-
 ## Imagens do aplicativo
 
 <p align="center">
