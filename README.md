@@ -7,11 +7,11 @@ Aplicativo Flutter desenvolvido para a atividade **Atividade 06 – Formulário 
 <p align="center">
   <img src="screenshots/tela_principal.png" alt="Tela inicial do catálogo de produtos" width="30%" />
   <img src="screenshots/cadastro_validacao_campos_vazios.png" alt="Tela de cadastro com formulário e validações" width="30%" />
-  <img src="screenshots/tela_principal_com_produto_validado_cadastrado.png" alt="Catálogo com novo produto cadastrado e validado" width="30%" />
+  <img src="screenshots/cadastro_validacao_camp_nome.png" alt="Validação com erro no campo nome do formulário" width="30%" /> 
 </p>
 <p align="center">
-  <img src="screenshots/cadastro_validacao_camp_nome.png" alt="Validação com erro no campo nome do formulário" width="45%" />
   <img src="screenshots/cadastro_validacao_camp_preco.png" alt="Validação com erro no campo preço do formulário" width="45%" />
+  <img src="screenshots/tela_principal_com_produto_validado_cadastrado.png" alt="Catálogo com novo produto cadastrado e validado" width="45%" />
 </p>
 
 ## Objetivo da atividade
